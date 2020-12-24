@@ -1,4 +1,4 @@
-from makeCharts_1 import DataSheet, convert_to_BarChart, convert_to_BarChart3D, convert_to_Scatter, Reference
+from makeCharts_1 import DataSheet, convert_to_BarChart, convert_to_BarChart3D, convert_to_Scatter
 import openpyxl as xl
 from openpyxl.chart import Reference, ScatterChart, Series
 
